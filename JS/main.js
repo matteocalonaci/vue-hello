@@ -6,7 +6,8 @@ createApp({
     data() {
         return {
             message: "Hello Veu World",
-
+            //BONUS
+            image: "./IMG/evan-you-portrait.jpg"
         }
     }
 }).mount("#app")
